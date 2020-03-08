@@ -1,74 +1,12 @@
 {
-  "_id": "5e1c1c607382a804fd3d0373",
-  "flg": "flg-gb-eng",
-  "id": 252,
-  "name": "England",
-  "tournaments": [
-    {
-      "id": 2,
-      "url": "/Regions/252/Tournaments/2/England-Premier-League",
-      "name": "Premier League"
-    },
-    {
-      "id": 26,
-      "url": "/Regions/252/Tournaments/26/England-FA-Cup",
-      "name": "FA Cup"
-    },
-    {
-      "id": 29,
-      "url": "/Regions/252/Tournaments/29/England-League-Cup",
-      "name": "League Cup"
-    },
-    {
-      "id": 96,
-      "url": "/Regions/252/Tournaments/96/England-Community-Shield",
-      "name": "Community Shield"
-    },
-    {
-      "id": 7,
-      "url": "/Regions/252/Tournaments/7/England-Championship",
-      "name": "Championship"
-    },
-    {
-      "id": 8,
-      "url": "/Regions/252/Tournaments/8/England-League-One",
-      "name": "League One"
-    },
-    {
-      "id": 9,
-      "url": "/Regions/252/Tournaments/9/England-League-Two",
-      "name": "League Two"
-    },
-    {
-      "id": 70,
-      "url": "/Regions/252/Tournaments/70/England-National-League-Premier",
-      "name": "National League Premier"
-    },
-    {
-      "id": 314,
-      "url": "/Regions/252/Tournaments/314/England-National-League",
-      "name": "National League"
-    },
-    {
-      "id": 315,
-      "url": "/Regions/252/Tournaments/315/England-Regional-League",
-      "name": "Regional League"
-    },
-    {
-      "id": 23,
-      "url": "/Regions/252/Tournaments/23/England-Johnstones-Paint-Trophy",
-      "name": "Johnstones Paint Trophy"
-    },
-    {
-      "id": 389,
-      "url": "/Regions/252/Tournaments/389/England-Professional-Development-League",
-      "name": "Professional Development League"
-    },
-    {
-      "id": 479,
-      "url": "/Regions/252/Tournaments/479/England-FA-Trophy",
-      "name": "FA Trophy"
-    }
-  ],
-  "type": 0
+  "_id": "5e1c1c607382a804fd3d034a",
+  "type": 1,
+  "id": 248,
+  "flg": "flg-caf",
+  "name": "Africa",
+  "tournaments": {
+    "id": 290,
+    "url": "\/Regions\/248\/Tournaments\/290\/Africa-CAF-Champions-League",
+    "name": "CAF Champions League"
+  }
 }
